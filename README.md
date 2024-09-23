@@ -12,12 +12,12 @@ Follow these steps to set up and play the game:
 git clone https://github.com/aditya10avg/Js-Game.git
 ```
 
-### 2. Open the project in any IDE (VS code preffered)
+### 2. Open the project in any IDE (VS code preferred)
 ```bash
 cd Js-Game
 code .
 ```
-###3. Install Live Server Extension
+### 3. Install Live Server Extension
 If you don’t have the Live Server extension installed in VS Code, follow these steps:
 
 Go to the Extensions tab on the left.
